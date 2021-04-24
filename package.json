@@ -1,0 +1,13 @@
+{
+  "name": "kamusi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Kamusi-Hackathon-Team/kamusi",
+  "author": "Kamusi-Hackathon-Team",
+  "license": "AGPLv3",
+  "dependencies": {
+    "skynet-js": "^4.0.2-beta",
+    "webpack": "^5.35.1",
+    "webpack-cli": "^4.6.0"
+  }
+}
