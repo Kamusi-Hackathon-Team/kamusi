@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": "https://github.com/Kamusi-Hackathon-Team/kamusi",
   "author": "Kamusi-Hackathon-Team",
-  "license": "AGPLv3",
+  "license": "AGPL-3.0-only",
   "dependencies": {
     "skynet-js": "^4.0.2-beta",
     "webpack": "^5.35.1",
